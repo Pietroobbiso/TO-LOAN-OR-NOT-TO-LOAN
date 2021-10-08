@@ -15,4 +15,4 @@ In order for the bank managers to understand who is a good client, that is, to w
 ## Results
 Main results:
 
-(https://user-images.githubusercontent.com/57104110/136586829-b913912f-65a8-456d-bf4e-1db65b0323d6.PNG)
+![alt text](https://user-images.githubusercontent.com/57104110/136586829-b913912f-65a8-456d-bf4e-1db65b0323d6.PNG)
